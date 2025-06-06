@@ -15,6 +15,6 @@ Given the limitations of current scene recognition methods in efficiency, redund
 
 # Demonstration
 ## Some demos in [**Habitat**](https://aihabitat.org/datasets/hm3d/).
-Demos of scene recognition for topological semantic mapping in three large and complex indoor environments: (1) 00847, (2) 00877, and (3) 00843 from HM3D, including maps, whether the scene recognition model is used, and the scene recognition result of each node.
+Demos of scene recognition for topological semantic mapping in three large and complex indoor environments: (1) 00847, (2) 00877, and (3) 00843 from Habitat, including maps, whether the scene recognition model is used, and the scene recognition result of each node.
 
 https://github.com/user-attachments/assets/1642adef-5c63-4380-9b84-73b812d487b3
