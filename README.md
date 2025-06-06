@@ -15,4 +15,5 @@ Given the limitations of current scene recognition methods in efficiency, redund
 
 # Demonstration
 ## Some demos in [**Habitat**](https://aihabitat.org/datasets/hm3d/).
+Demos of scene recognition in three large and complex indoor environments: (1) 00847, (2) 00877, and (3) 00843 from HM3D using our method, including maps, whether the scene recognition model is used, and the recognition results.
 https://github.com/user-attachments/assets/1642adef-5c63-4380-9b84-73b812d487b3
