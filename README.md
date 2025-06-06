@@ -15,3 +15,4 @@ Given the limitations of current scene recognition methods in efficiency, redund
 
 # Demonstration
 ## Some demos in [**Habitat**](https://aihabitat.org/datasets/hm3d/).
+https://github.com/user-attachments/assets/1642adef-5c63-4380-9b84-73b812d487b3
