@@ -10,5 +10,5 @@ Given the limitations of current scene recognition methods in efficiency, redund
 # Framework
 
 <p align="center">
-<img src="https://github.com/simpleliu66/SR_SM/edit/main/img/intro.jpg" height= "600" width="800">
+<img src="https://github.com/simpleliu66/SR_SM/blob/main/img/intro.jpg" height= "600" width="800">
 </p>
