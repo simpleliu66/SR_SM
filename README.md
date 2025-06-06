@@ -12,3 +12,6 @@ Given the limitations of current scene recognition methods in efficiency, redund
 <p align="center">
 <img src="https://github.com/simpleliu66/SR_SM/blob/main/img/intro.jpg" height= "300" width="800">
 </p>
+
+# Demonstration
+## Some demos in [**Habitat**](https://aihabitat.org/datasets/hm3d/).
